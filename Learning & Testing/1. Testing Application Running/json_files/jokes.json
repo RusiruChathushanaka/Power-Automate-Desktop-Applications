@@ -117,5 +117,12 @@
         "type": "general",
         "setup": "How many hipsters does it take to change a lightbulb?",
         "punchline": "Oh, it's a really obscure number. You've probably never heard of it."
+    },
+    {
+        "ID": 18,
+        "timestamp": "2025-06-07T17:47:55.586168",
+        "type": "programming",
+        "setup": "Why do Java programmers wear glasses?",
+        "punchline": "Because they don't C#."
     }
 ]
