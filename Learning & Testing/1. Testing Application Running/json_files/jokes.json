@@ -229,5 +229,40 @@
         "type": "general",
         "setup": "Ever wondered why bees hum?",
         "punchline": "It's because they don't know the words."
+    },
+    {
+        "ID": 34,
+        "timestamp": "2025-06-07T23:22:12.258092",
+        "type": "programming",
+        "setup": "What's the best thing about a Boolean?",
+        "punchline": "Even if you're wrong, you're only off by a bit."
+    },
+    {
+        "ID": 35,
+        "timestamp": "2025-06-07T23:22:13.262958",
+        "type": "programming",
+        "setup": "Why did the private classes break up?",
+        "punchline": "Because they never saw each other."
+    },
+    {
+        "ID": 36,
+        "timestamp": "2025-06-07T23:22:16.465852",
+        "type": "general",
+        "setup": "Why can't your nose be 12 inches long?",
+        "punchline": "Because then it'd be a foot!"
+    },
+    {
+        "ID": 37,
+        "timestamp": "2025-06-07T23:22:19.632779",
+        "type": "general",
+        "setup": "Why do crabs never give to charity?",
+        "punchline": "Because they\u2019re shellfish."
+    },
+    {
+        "ID": 38,
+        "timestamp": "2025-06-07T23:22:22.808107",
+        "type": "general",
+        "setup": "What did the Zen Buddist say to the hotdog vendor?",
+        "punchline": "Make me one with everything."
     }
 ]
