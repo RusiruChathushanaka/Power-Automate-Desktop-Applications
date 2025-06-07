@@ -33,5 +33,54 @@
         "type": "general",
         "setup": "Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel.",
         "punchline": "You can only use a low ha."
+    },
+    {
+        "ID": 6,
+        "timestamp": "2025-06-07T17:38:20.662171",
+        "type": "general",
+        "setup": "How many seconds are in a year?",
+        "punchline": "12. January 2nd, February 2nd, March 2nd, April 2nd.... etc"
+    },
+    {
+        "ID": 7,
+        "timestamp": "2025-06-07T17:39:32.727093",
+        "type": "general",
+        "setup": "Why was Cinderalla thrown out of the football team?",
+        "punchline": "Because she ran away from the ball."
+    },
+    {
+        "ID": 8,
+        "timestamp": "2025-06-07T17:41:06.614367",
+        "type": "programming",
+        "setup": "What did the router say to the doctor?",
+        "punchline": "It hurts when IP."
+    },
+    {
+        "ID": 9,
+        "timestamp": "2025-06-07T17:41:09.020994",
+        "type": "general",
+        "setup": "What lies at the bottom of the ocean and twitches?",
+        "punchline": "A nervous wreck."
+    },
+    {
+        "ID": 10,
+        "timestamp": "2025-06-07T17:41:11.662068",
+        "type": "general",
+        "setup": "What do you get when you cross a chicken with a skunk?",
+        "punchline": "A fowl smell!"
+    },
+    {
+        "ID": 11,
+        "timestamp": "2025-06-07T17:41:15.570521",
+        "type": "general",
+        "setup": "What did the traffic light say to the car as it passed?",
+        "punchline": "Don't look I'm changing!"
+    },
+    {
+        "ID": 12,
+        "timestamp": "2025-06-07T17:41:16.882766",
+        "type": "general",
+        "setup": "Why don't skeletons fight each other?",
+        "punchline": "They don't have the guts."
     }
 ]
