@@ -124,5 +124,75 @@
         "type": "programming",
         "setup": "Why do Java programmers wear glasses?",
         "punchline": "Because they don't C#."
+    },
+    {
+        "ID": 19,
+        "timestamp": "2025-06-07T18:20:46.913878",
+        "type": "general",
+        "setup": "Why did the worker get fired from the orange juice factory?",
+        "punchline": "Lack of concentration."
+    },
+    {
+        "ID": 20,
+        "timestamp": "2025-06-07T18:20:50.852350",
+        "type": "programming",
+        "setup": "Why did the programmer always carry a pencil?",
+        "punchline": "They preferred to write in C#."
+    },
+    {
+        "ID": 21,
+        "timestamp": "2025-06-07T18:20:53.553763",
+        "type": "general",
+        "setup": "Why do chicken coops only have two doors?",
+        "punchline": "Because if they had four, they would be chicken sedans"
+    },
+    {
+        "ID": 22,
+        "timestamp": "2025-06-07T18:20:56.133376",
+        "type": "programming",
+        "setup": "What goes after USA?",
+        "punchline": "USB."
+    },
+    {
+        "ID": 23,
+        "timestamp": "2025-06-07T18:20:59.542273",
+        "type": "general",
+        "setup": "If you boil a clown...",
+        "punchline": "Do you get a laughing stock?"
+    },
+    {
+        "ID": 24,
+        "timestamp": "2025-06-07T18:21:35.546717",
+        "type": "general",
+        "setup": "Why do mathematicians hate the U.S.?",
+        "punchline": "Because it's indivisible."
+    },
+    {
+        "ID": 25,
+        "timestamp": "2025-06-07T18:21:40.397601",
+        "type": "programming",
+        "setup": "Why don't React developers like nature?",
+        "punchline": "They prefer the virtual DOM."
+    },
+    {
+        "ID": 26,
+        "timestamp": "2025-06-07T18:21:42.942717",
+        "type": "general",
+        "setup": "What animal is always at a game of cricket?",
+        "punchline": "A bat."
+    },
+    {
+        "ID": 27,
+        "timestamp": "2025-06-07T18:21:46.201368",
+        "type": "general",
+        "setup": "Which side of the chicken has more feathers?",
+        "punchline": "The outside."
+    },
+    {
+        "ID": 28,
+        "timestamp": "2025-06-07T18:21:49.743931",
+        "type": "general",
+        "setup": "Why did the scarecrow win an award?",
+        "punchline": "Because he was outstanding in his field."
     }
 ]
