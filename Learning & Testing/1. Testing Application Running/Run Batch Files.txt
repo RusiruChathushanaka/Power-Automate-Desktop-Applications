@@ -1,0 +1,8 @@
+# Test Flow
+SET appPath TO $'''E:\\5. Power Automate Desktop\\Learning & Testing\\1. Testing Application Running\\getJoke.bat'''
+LOOP LoopIndex FROM 1 TO 5 STEP 1
+    System.RunApplication.RunApplication ApplicationPath: appPath WindowStyle: System.ProcessWindowStyle.Normal ProcessId=> AppProcessId
+    WAIT 3
+    System.TerminateProcess.TerminateProcessById ProcessId: AppProcessId
+END
+Display.ShowMessageDialog.ShowMessage Title: $'''End''' Message: $'''Flow Ended''' Icon: Display.Icon.Information Buttons: Display.Buttons.OK DefaultButton: Display.DefaultButton.Button1 IsTopMost: True ButtonPressed=> ButtonPressed
