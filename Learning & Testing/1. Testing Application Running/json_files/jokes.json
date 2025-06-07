@@ -82,5 +82,40 @@
         "type": "general",
         "setup": "Why don't skeletons fight each other?",
         "punchline": "They don't have the guts."
+    },
+    {
+        "ID": 13,
+        "timestamp": "2025-06-07T17:42:24.097117",
+        "type": "general",
+        "setup": "What do you call a bear with no teeth?",
+        "punchline": "A gummy bear!"
+    },
+    {
+        "ID": 14,
+        "timestamp": "2025-06-07T17:42:26.441895",
+        "type": "general",
+        "setup": "Why did the butcher work extra hours at the shop?",
+        "punchline": "To make ends meat."
+    },
+    {
+        "ID": 15,
+        "timestamp": "2025-06-07T17:42:30.052871",
+        "type": "general",
+        "setup": "How do you find Will Smith in the snow?",
+        "punchline": "Look for fresh prints."
+    },
+    {
+        "ID": 16,
+        "timestamp": "2025-06-07T17:42:33.632293",
+        "type": "general",
+        "setup": "What\u2019s brown and sounds like a bell?",
+        "punchline": "Dung!"
+    },
+    {
+        "ID": 17,
+        "timestamp": "2025-06-07T17:42:37.575801",
+        "type": "general",
+        "setup": "How many hipsters does it take to change a lightbulb?",
+        "punchline": "Oh, it's a really obscure number. You've probably never heard of it."
     }
 ]
