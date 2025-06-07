@@ -194,5 +194,40 @@
         "type": "general",
         "setup": "Why did the scarecrow win an award?",
         "punchline": "Because he was outstanding in his field."
+    },
+    {
+        "ID": 29,
+        "timestamp": "2025-06-07T18:45:10.286659",
+        "type": "general",
+        "setup": "What musical instrument is found in the bathroom?",
+        "punchline": "A tuba toothpaste."
+    },
+    {
+        "ID": 30,
+        "timestamp": "2025-06-07T18:45:14.636941",
+        "type": "general",
+        "setup": "Never take advice from electrons.",
+        "punchline": "They are always negative."
+    },
+    {
+        "ID": 31,
+        "timestamp": "2025-06-07T18:45:16.013747",
+        "type": "general",
+        "setup": "Why did the kid throw the watch out the window?",
+        "punchline": "So time would fly."
+    },
+    {
+        "ID": 32,
+        "timestamp": "2025-06-07T18:45:19.377505",
+        "type": "general",
+        "setup": "Why couldn't the bicycle stand up by itself?",
+        "punchline": "It was two-tired."
+    },
+    {
+        "ID": 33,
+        "timestamp": "2025-06-07T18:45:22.176759",
+        "type": "general",
+        "setup": "Ever wondered why bees hum?",
+        "punchline": "It's because they don't know the words."
     }
 ]
